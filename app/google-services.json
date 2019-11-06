@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "377975110844",
+    "firebase_url": "https://buss-ded3c.firebaseio.com",
+    "project_id": "buss-ded3c",
+    "storage_bucket": "buss-ded3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377975110844:android:ed88c62446d150078524b9",
+        "android_client_info": {
+          "package_name": "com.example.bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377975110844-pofoj4enqug7t4ccgrm7ep34507tmosd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bus",
+            "certificate_hash": "027f670532d3cd33d92523139796854a67d373a0"
+          }
+        },
+        {
+          "client_id": "377975110844-a3sj54pdnpuefc5lm0sum8eb7fdpjac2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPNGdau8tT95eDu3AFefoz8uDYE1zRy_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377975110844-a3sj54pdnpuefc5lm0sum8eb7fdpjac2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
